@@ -1101,15 +1101,11 @@ body {
         font-size: 2.5rem;
     }
 
-    .contato-item {
-        flex-direction: column;
-        gap: 0.75rem;
-    }
-
     .contato-icon {
-        width: 45px;
-        height: 45px;
-        min-width: 45px;
+        width: 60px;
+        height: 60px;
+        min-width: 60px;
+        min-height: 60px;
     }
 
     .whatsapp-float {
